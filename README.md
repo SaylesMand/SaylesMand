@@ -28,13 +28,13 @@ I'll add later
   
 |Backend|ML|
 |:----:|:-----:|
-|<p align="center"><a href="./CV/DenisZakharov-CV-August-2024-Backend.pdf"><img align="center" width="45px" src="resourses/cv.svg" class="shades-of-purple"/></p></a>|<p align="center"><img align="center" width="45px" src="resourses/cv.svg" class="shades-of-purple"/></p>|
+|<p align="center"><a href="./CV/DenisZakharov-CV-August-2024-Backend.pdf"><img align="center" width="45px" src="resources/cv.svg" class="tokyonight"/></p></a>|<p align="center"><img align="center" width="45px" src="resources/cv.svg" class="tokyonight"/></p>|
 
 </p align="center">
 -->
 
 ### 💬 Social
-| <a href="https://t.me/matvienko_d"><img align="center" width="45px" src="resourses/telegram.svg" class="tokyonight"/></a>  | <a href="https://arkhangelsk.hh.ru/resume/83931ed0ff0bf73eef0039ed1f694f564b5052"><img align="center" width="45px" src="resourses/hh.svg" class="tokyonight"/></a>|<a href="https://career.habr.com/saylesmand"><img align="center" width="45px" src="resourses/habr.svg" class="shades-of-purple"/>
+| <a href="https://t.me/matvienko_d"><img align="center" width="45px" src="resources/social/telegram.svg" class="tokyonight"/></a>  | <a href="https://arkhangelsk.hh.ru/resume/83931ed0ff0bf73eef0039ed1f694f564b5052"><img align="center" width="45px" src="resources/social/hh.png" class="tokyonight"/></a>|<a href="https://career.habr.com/saylesmand"><img align="center" width="45px" src="resources/social/habr.svg" class="tokyonight"/>
 |----|----|----|
 
 <!--
@@ -50,7 +50,7 @@ I'll add later
 ## Natural Languages
 <p align="center">
 
-|<a title="С2"><img align="center" width="45px" src="resourses/natural-languages/russian.png"/></a>|<a title="С1"><img align="center" width="45px" src="resourses/natural-languages/english.png"/></a>|
+|<a title="С2"><img align="center" width="45px" src="resources/natural-languages/russian.png"/></a>|<a title="С1"><img align="center" width="45px" src="resources/natural-languages/english.png"/></a>|
 |:----:|:----:|
 
 <br />
