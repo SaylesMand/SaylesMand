@@ -20,18 +20,9 @@ Here are some ideas to get you started:
 |:----:|:-----|
 |NArFU| (2021  — now) Bachelor of Applied math and computer science|
 
-<!--
 ### My CV's
-
-I'll add later
-<p align="center">
-  
-|Backend|ML|
-|:----:|:-----:|
-|<p align="center"><a href="./CV/DenisZakharov-CV-August-2024-Backend.pdf"><img align="center" width="45px" src="resources/cv.svg" class="shades-of-green"/></p></a>|<p align="center"><img align="center" width="45px" src="resources/cv.svg" class="shades-of-green"/></p>|
-
-</p align="center">
--->
+|<a href="CV/resume_(common).pdf"><img align="center" width="45px" src="resources/cv/cv.svg" class="shades-of-green"/>
+|----|
 
 ### 💬 Social
 | <a href="https://t.me/matvienko_d"><img align="center" width="45px" src="resources/social/telegram.svg" class="shades-of-green"/></a> | <a href="https://career.habr.com/saylesmand"><img align="center" width="45px" src="resources/social/habr.svg" class="shades-of-green"/></a> | <a href="https://arkhangelsk.hh.ru/resume/83931ed0ff0bf73eef0039ed1f694f564b5052"><img align="center" width="45px" src="resources/social/hh.svg" class="shades-of-green"/></a>
@@ -54,16 +45,9 @@ I'll add later
 |:----:|:----:|
 
 <br />
-<br />
-<br />
 
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SaylesMand&theme=tokyonight&show_icons=true" alt="SaylesMand" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaylesMand&theme=tokyonight&layout=compact" alt="SaylesMand" />  
 </p>
-
-<!--CSS-->
-.shades-of-green{
-  filter: invert(62%) sepia(9%) saturate(2774%) hue-rotate(124deg) brightness(103%) contrast(84%);
-}
