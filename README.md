@@ -48,6 +48,6 @@ Here are some ideas to get you started:
 
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SaylesMand&theme=tokyonight&show_icons=true" alt="SaylesMand" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SaylesMand&theme=tokyonight&show_icons=true" alt="SaylesMand" /> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaylesMand&theme=tokyonight&layout=compact" alt="SaylesMand" />  
 </p>
