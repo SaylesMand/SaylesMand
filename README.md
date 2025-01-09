@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 |NArFU| (2021  — now) Bachelor of Applied math and computer science|
 
 ### My CV's
-|<a href="CV/resume_(common).pdf"><img align="center" width="45px" src="resources/cv/cv.svg" class="shades-of-green"/>
+|<a href="CV/cv (new).pdf"><img align="center" width="45px" src="resources/cv/cv.svg" class="shades-of-green"/>
 |----|
 
 ### 💬 Social
