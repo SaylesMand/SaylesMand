@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Education
 |University|Description|
 |:----:|:-----|
-|NArFU| (2021  — now) Bachelor of Applied math and computer science|
+|NArFU| (2021  — 2025) Bachelor of Applied math and computer science|
 
 ### My CV's
 |<a href="CV/cv (new).pdf"><img align="center" width="45px" src="resources/cv/cv.svg" class="shades-of-green"/>
