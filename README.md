@@ -19,13 +19,14 @@ Here are some ideas to get you started:
 |University|Description|
 |:----:|:-----|
 |NArFU| (2021  — 2025) Bachelor of Applied Math and Computer Science|
+|ITMO| (2025  — 2027) Master's degree in Artificial Intelligence|
 
 ### My CV's
-|<a href="CV/CV.pdf"><img align="center" width="45px" src="resources/cv/cv.svg" class="shades-of-green"/>
+|<a href="https://drive.google.com/file/d/1Po9T4njvtrSTLklzKeyYfsRDnLQvJfld/view?usp=sharing"><img align="center" width="45px" src="resources/cv/cv.svg" class="shades-of-green"/>
 |----|
 
 ### 💬 Social
-| <a href="https://t.me/matvienko_d"><img align="center" width="45px" src="resources/social/telegram.svg" class="shades-of-green"/></a> | <a href="https://career.habr.com/saylesmand"><img align="center" width="45px" src="resources/social/habr.svg" class="shades-of-green"/></a> | <a href="https://arkhangelsk.hh.ru/resume/83931ed0ff0bf73eef0039ed1f694f564b5052"><img align="center" width="45px" src="resources/social/hh.svg" class="shades-of-green"/></a>
+| <a href="https://t.me/matvienko_d"><img align="center" width="45px" src="resources/social/telegram.svg" class="shades-of-green"/></a> | <a href="https://career.habr.com/saylesmand"><img align="center" width="45px" src="resources/social/habr.svg" class="shades-of-green"/></a> | <a href="https://arkhangelsk.hh.ru/resume/c9dd5e3dff0ed359ba0039ed1f58596b624235"><img align="center" width="45px" src="resources/social/hh.svg" class="shades-of-green"/></a>
 |----|----|----|
 
 <!--
